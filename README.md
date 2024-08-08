@@ -10,5 +10,5 @@ If the Customer wishes to check, Customer can access this Feature by logging out
 # Features
 •	Integrated AWS S3 for scalable storage solutions and JWT for robust authentication.
 •	Developed key functionalities including user authentication, room booking management, and admin controls.
-#Tech Stack:
+# Tech Stack:
 Java EE, Spring Boot, MySQL, Spring Security, React.JS, AWS.
