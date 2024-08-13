@@ -19,7 +19,7 @@ Java EE, Spring Boot, MySQL, Spring Security, React.JS, AWS.
 # All rooms:
 ![Screenshot (274)](https://github.com/user-attachments/assets/9c6d0106-e83d-44a9-9d10-3aca4ca0cedc)
 # Find Bookings:
-![Screenshot (275)](https://github.com/user-attachments/assets/ac2c1276-22c0-4db6-a0cb-319c95b2c93f
+![Screenshot (275)](https://github.com/user-attachments/assets/ac2c1276-22c0-4db6-a0cb-319c95b2c93f)
 # Login:
 ![Screenshot (276)](https://github.com/user-attachments/assets/ce1a866b-0c27-42d6-927e-5ac04eac2ad7)
 # Register:
